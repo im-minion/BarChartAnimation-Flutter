@@ -1,8 +1,3 @@
-# flutter_tutorial
+# Bar Chart Animation
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://github.com/im-minion/BarChartAnimation-Flutter/blob/master/bar_chart.gif" width="320">
